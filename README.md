@@ -1,4 +1,5 @@
-a shitty text base browser that can only locate mp3 musics:/
+My first program in python.
+A simple ascimatics app that browses directories and shows .mp3 files.
 
 
 # mucis_player
